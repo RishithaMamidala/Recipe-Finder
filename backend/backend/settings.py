@@ -32,7 +32,7 @@ SPOONACULAR_API_KEY = '8ca0fd14a1a94a2594f9a76046aaacc0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', '3.86.205.9']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
 
 
 # Application definition
